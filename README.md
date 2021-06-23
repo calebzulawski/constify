@@ -1,2 +1,2 @@
 # Constify
-Rust macros for creating `consts` from runtime values.
+Rust macros for creating `const`s from runtime values.
