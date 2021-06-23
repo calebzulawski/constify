@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["constify","Convert runtime values to `const`s."],["try_constify","Fallibly convert runtime values to `const`s."]]});
