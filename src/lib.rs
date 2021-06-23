@@ -79,7 +79,7 @@ macro_rules! __impl_constify {
 ///
 /// This macro compares runtime expressions to the provided constants and evaluates the given
 /// expression with the matching constants.
-/// All cases must be covered, to match only a subset of values use [`try_constify`].
+/// All cases must be covered; to match only a subset of values use [`try_constify`].
 ///
 /// The expressions are evaluated in the order they are provided.
 ///
