@@ -1,0 +1,18 @@
+[package]
+name = "constify"
+version = "0.1.0"
+authors = ["Caleb Zulawski <caleb.zulawski@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Make consts out of runtime values"
+repository = "https://github.com/calebzulawski/constify"
+categories = ["no-std", "rust-patterns"]
+readme = "README.md"
+edition = "2018"
+include = [
+    "/Cargo.toml",
+    "/LICENSE-APACHE",
+    "/LICENSE-MIT",
+    "/src/**/*.rs",
+    "/tests/**/*.rs",
+]
+keywords = ["const", "constify", "dispatch", "macro"]
